@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarmneimneh
 - 👀 I’m interested in coding, photography, and powerlifting.
-- 🌱 I’m currently learning Java and SQL.
+- 🌱 I’m currently learning Java, SQL, MySQL, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
