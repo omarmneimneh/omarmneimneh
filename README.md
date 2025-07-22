@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @omarmneimneh
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in coding, photography, and powerlifting.
 - 🌱 I’m currently learning Java, SQL, MySQL, HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 omarmneimneh/omarmneimneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
